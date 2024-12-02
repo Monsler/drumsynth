@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/testResources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="formdev.flatlaf" level="project" />
+    <orderEntry type="library" name="jSystemThemeDetector-ea2f8582ea" level="project" />
+    <orderEntry type="library" name="log4j" level="project" />
+    <orderEntry type="library" name="slf4j-jdk-platform-logging-2.0.9" level="project" />
+    <orderEntry type="library" name="slf4j-api-2.0.9" level="project" />
+    <orderEntry type="library" name="github.oshi.core" level="project" />
+    <orderEntry type="library" name="io.github.g00fy2.versioncompare" level="project" />
+    <orderEntry type="library" name="jlayer-1.0.1.4" level="project" />
+  </component>
+</module>
