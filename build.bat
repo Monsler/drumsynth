@@ -1,0 +1,1 @@
+nuitka .\src\main.py --standalone --onefile --include-data-dir="src/res"="res" --enable-plugin=pyside6 --windows-console-mode=disable  
