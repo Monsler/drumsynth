@@ -1,10 +1,6 @@
 # drumsynth
-Drum stem builder which is written in a pure Kotlin
+Drum stem compositor which is written in pure Python
 
-
-Used libraries:<br>
-[jSystemThemeDetector](https://github.com/Dansoftowner/jSystemThemeDetector)<br>
-[slf4j](https://github.com/qos-ch/slf4j)<br>
-[version-compare](https://github.com/G00fY2/version-compare)<br>
-[oshi core](https://github.com/oshi/oshi)
-
+# Used libraries: <br>
+[playsound](https://github.com/TaylorSMarks/playsound)<br>
+[PySide6](https://github.com/qtproject/pyside-pyside-setup)<br>
