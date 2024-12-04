@@ -1,5 +1,7 @@
 # drumsynth
 Drum stem compositor which is written in pure Python
+![Screenshot](https://github.com/user-attachments/assets/1a5d5d54-280e-4923-97f0-3b490a0f85b2)
+
 
 # Used libraries <br>
 [playsound](https://github.com/TaylorSMarks/playsound)<br>
