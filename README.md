@@ -1,5 +1,5 @@
 # drumsynth
-Drum stem compositor which is written in pure Python
+Drum stem compositor which is written in pure Python<br>
 ![Screenshot](https://github.com/user-attachments/assets/1a5d5d54-280e-4923-97f0-3b490a0f85b2)
 
 
