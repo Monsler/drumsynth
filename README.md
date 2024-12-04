@@ -22,6 +22,6 @@ python src/main.py
 
 Run 
 ```bash
-  ./build.bat
+./build.bat
 ```
 in powershell
